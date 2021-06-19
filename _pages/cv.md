@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Summer 2015: Modeling Analist
+* Summer 2015: Modeling Analyst
   * Nielsen
   * Duties included: Independent execution of complex Marketing Mix Modeling projects for USA markets, which includes running econometric models on Nielsen modeling platforms.
   * Supervisor: Anabella Sammarone
